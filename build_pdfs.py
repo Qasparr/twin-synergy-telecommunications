@@ -71,6 +71,8 @@ DOCS = [
      "Twin Synergy Telecommunications"),
     ("SECOND-WEAVE.md", "The Second Weave — Eight Closures",
      "Twin Synergy Telecommunications"),
+    ("RED-PEN-RECOMMENDATIONS.md", "Red-Pen Recommendations",
+     "Twin Synergy Telecommunications"),
 ]
 
 
