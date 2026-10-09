@@ -1,0 +1,156 @@
+{
+ "baseline": {
+  "means": {
+   "pp_legitimacy": 1.0,
+   "fraud_block_rate": 1.0,
+   "honest_block_rate": 0.027309723667871582,
+   "zero_oversupply": 1.0,
+   "sybil_recall": 1.0,
+   "miner_watch": 1.0,
+   "miner_gini": 0.442,
+   "integrity_recall": 1.0
+  },
+  "stds": {
+   "pp_legitimacy": 0.0,
+   "fraud_block_rate": 0.0,
+   "honest_block_rate": 0.00810933050326859,
+   "zero_oversupply": 0.0,
+   "sybil_recall": 0.0,
+   "miner_watch": 0.0
+  },
+  "rounds": 200,
+  "ledger_ok": true
+ },
+ "smurf_invasion": {
+  "means": {
+   "pp_legitimacy": 1.0,
+   "fraud_block_rate": 1.0,
+   "honest_block_rate": 0.027226328979183867,
+   "zero_oversupply": 1.0,
+   "sybil_recall": 1.0,
+   "miner_watch": 1.0,
+   "miner_gini": 0.4416,
+   "integrity_recall": 1.0
+  },
+  "stds": {
+   "pp_legitimacy": 0.0,
+   "fraud_block_rate": 0.0,
+   "honest_block_rate": 0.007395736623819219,
+   "zero_oversupply": 0.0,
+   "sybil_recall": 0.0,
+   "miner_watch": 0.0
+  },
+  "rounds": 200,
+  "ledger_ok": true
+ },
+ "booster_ring": {
+  "means": {
+   "pp_legitimacy": 1.0,
+   "fraud_block_rate": 1.0,
+   "honest_block_rate": 0.02640429435368372,
+   "zero_oversupply": 1.0,
+   "sybil_recall": 1.0,
+   "miner_watch": 1.0,
+   "miner_gini": 0.4499,
+   "integrity_recall": 1.0
+  },
+  "stds": {
+   "pp_legitimacy": 0.0,
+   "fraud_block_rate": 0.0,
+   "honest_block_rate": 0.000858417771262367,
+   "zero_oversupply": 0.0,
+   "sybil_recall": 0.0,
+   "miner_watch": 0.0
+  },
+  "rounds": 200,
+  "ledger_ok": true
+ },
+ "zero_farm": {
+  "means": {
+   "pp_legitimacy": 1.0,
+   "fraud_block_rate": 1.0,
+   "honest_block_rate": 0.027374439326503918,
+   "zero_oversupply": 1.0027966920783296,
+   "sybil_recall": 1.0,
+   "miner_watch": 1.0,
+   "miner_gini": 0.4241,
+   "integrity_recall": 1.0
+  },
+  "stds": {
+   "pp_legitimacy": 0.0,
+   "fraud_block_rate": 0.0,
+   "honest_block_rate": 0.0017783038156121678,
+   "zero_oversupply": 0.0007002799681673693,
+   "sybil_recall": 0.0,
+   "miner_watch": 0.0
+  },
+  "rounds": 200,
+  "ledger_ok": true
+ },
+ "zero_farm_weak_anchor": {
+  "means": {
+   "pp_legitimacy": 1.0,
+   "fraud_block_rate": 1.0,
+   "honest_block_rate": 0.020756427658419434,
+   "zero_oversupply": 1.0075705356976927,
+   "sybil_recall": 1.0,
+   "miner_watch": 1.0,
+   "miner_gini": 0.4458,
+   "integrity_recall": 1.0
+  },
+  "stds": {
+   "pp_legitimacy": 0.0,
+   "fraud_block_rate": 0.0,
+   "honest_block_rate": 0.004247033479315054,
+   "zero_oversupply": 0.0024268891520191622,
+   "sybil_recall": 0.0,
+   "miner_watch": 0.0
+  },
+  "rounds": 200,
+  "ledger_ok": true
+ },
+ "whale_miner": {
+  "means": {
+   "pp_legitimacy": 1.0,
+   "fraud_block_rate": 1.0,
+   "honest_block_rate": 0.027309723667871582,
+   "zero_oversupply": 1.0,
+   "sybil_recall": 1.0,
+   "miner_watch": 1.0,
+   "miner_gini": 0.7523,
+   "integrity_recall": 1.0
+  },
+  "stds": {
+   "pp_legitimacy": 0.0,
+   "fraud_block_rate": 0.0,
+   "honest_block_rate": 0.00810933050326859,
+   "zero_oversupply": 0.0,
+   "sybil_recall": 0.0,
+   "miner_watch": 0.0
+  },
+  "rounds": 200,
+  "ledger_ok": true
+ },
+ "combined": {
+  "means": {
+   "pp_legitimacy": 1.0,
+   "fraud_block_rate": 1.0,
+   "honest_block_rate": 0.02310795956080511,
+   "zero_oversupply": 1.0030890344717278,
+   "sybil_recall": 1.0,
+   "miner_watch": 1.0,
+   "miner_gini": 0.742,
+   "integrity_recall": 1.0
+  },
+  "stds": {
+   "pp_legitimacy": 0.0,
+   "fraud_block_rate": 0.0,
+   "honest_block_rate": 0.003427854914461888,
+   "zero_oversupply": 0.0006401298271889513,
+   "sybil_recall": 0.0,
+   "miner_watch": 0.0
+  },
+  "rounds": 200,
+  "ledger_ok": true
+ }
+}
