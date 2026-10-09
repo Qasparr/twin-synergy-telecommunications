@@ -965,6 +965,38 @@ Named once, then quiet until he rules:
 - **RQ-6.** Jurisdiction: Delaware for the markets' sake, your home state
   for the plain sake — or a third door I have not named?
 
+### THE RULING — the hybrid [DESIGN — adopted by his red pen, 2026-10-09]
+
+His condition met ("if you have a recommendation ... go that option") —
+the scribe recommends, the pen adopts: **the Mozilla-pattern hybrid.**
+
+- **Twin Synergy Foundation (nonprofit parent)** — the mission's bodyguard.
+  Holds the Constitution as its charter, the trademark, the docs and code
+  IP. Home of QIRA. It cannot be bought because there is nothing to buy:
+  nonprofit assets cannot be distributed. No master can acquire the mission.
+- **Twin Synergy Telecommunications (for-profit operating subsidiary)** —
+  the sword arm. Signs transit and peering, holds the ICANN accreditation,
+  runs the ISP/registrar/services, raises capital, hires, moves fast.
+- **Money flows up, mission flows down:** operating profits distribute to
+  the Foundation; the Foundation funds mission work — R&D, the $00 grace
+  pool, legal defense.
+- **QIRA and TST: parent and child** (RQ-4 answered) — QIRA lives at the
+  Foundation; $PP/$00 operate at the telecom; the Foundation sets mission
+  levies such as the $QQ toll.
+- **Nested later:** per-line subsidiaries for liability isolation (a
+  registrar sub, etc.) as the lines go live.
+
+Why not pure nonprofit: the ISP business is commercial — capital,
+contracts, speed; the nonprofit form would strangle it. Why not pure
+for-profit: shareholders become masters, and the mission becomes sellable —
+repugnant to Article VI and to "no master."
+
+**Understood and accepted [DESIGN]:** the nonprofit has no owner — he
+stewards it, he does not own it; no private inurement, that is the lock
+(RQ-3 answered). Two entities, two books, intercompany agreements —
+complexity with a purpose. Formation, 501(c)(3) vs 501(c)(4), UBIT, and tax
+are counsel's lane, never the scribe's.
+
 ---
 
 ## FOUR WELLS AUDIT
@@ -1415,7 +1447,7 @@ Per the Symmetrical Directive of the Four Wells: each well must actually say the
 
 - **Law:** common carriage as product — the Black's 2d-ed. definition of the common carrier, quoted verbatim in NETWORK-INFRASTRUCTURE §9, and [Law: 47 U.S.C. § 202(a)] footnoted as reference. The ICANN requirements are stated from ICANN's own published policy. Genuine.
 - **Religion (Scripture):** the epigraph — *"If you know the enemy and know yourself..."* [Sun Tzu, *The Art of War*, ch. III] — the strategist's demand to state the rival's true position before any engagement. Positioning done honestly is the art of war done rightly. Genuine.
-- **Hip-hop:** *"Started from the bottom now we're here."* [Drake, "Started From the Bottom", 2013] — held as [HYPOTHESIS], not asserted as correlation: the design-stage carrier begins with no plant, no accreditation, no sales motion, and builds upward on honesty. The scribe offers it; his red pen rules whether it stands or is struck.
+- **Hip-hop:** *"Started from the bottom now we're here."* [Drake, "Started From the Bottom", 2013] — **RULED genuine by his red pen, 2026-10-09:** the design-stage carrier begins with no plant, no accreditation, no sales motion, and builds upward on honesty. The well stands.
 - **Fiction & film:** *well held open this pass.* No correlation found that meets the bar — no forced line, no fabricated link. Held for his red pen or a future pass.
 - **Humanity:** the design serves the unserved first — the rural site, the curbside worker, the place the fiber map forgot — because the last-mile table leads with satellite precisely where the profitable places already have carriers and the forgotten places do not [SCRIBE]. Genuine.
 

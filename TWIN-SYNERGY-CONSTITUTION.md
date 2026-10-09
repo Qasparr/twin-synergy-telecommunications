@@ -221,12 +221,12 @@ is a pact; both sides keep it, or the pact is broken.
 
 ---
 
-## THE MOTTO [SCRIBE — his red pen rules]
+## THE MOTTO [BLOOD-LETTERED — his red pen, 2026-10-09]
 
 ***Uterque Servit, Neuter Regnat.***
 *"Each serves; neither reigns."*
 
-## THE SLOGAN [SCRIBE — his red pen rules]
+## THE SLOGAN [BLOOD-LETTERED — his red pen, 2026-10-09]
 
 **Your line. Your rules. We just carry the signal.**
 

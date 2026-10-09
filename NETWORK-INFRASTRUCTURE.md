@@ -70,6 +70,13 @@ The design does not depend on the reseller badge. Two doors, one house **[DESIGN
 
 Either door opens Phase 1. Both are honest: the document never claims Twin Synergy *is* the satellite operator.
 
+**RULED — his red pen, 2026-10-09: Door B first.** Twin Synergy opens as the
+enterprise integrator (the customer's agent on customer-held Starlink
+Business accounts), not the authorized reseller. Starlink stays the wireless
+provider — the pathway partner, never the adversary; Twin Synergy's value is
+the managed edge (routers, DNS, failover, monitoring, support), not the
+spectrum. Door A remains a later option, never a contradiction.
+
 **Starlink Business pathway specs — approximate, subject to SpaceX's current terms [SCRIBE]:** Third-party reporting (verified 2026-10-09 against public sources; **re-verify at starlink.com before committing**) indicates:
 
 - Priority data buckets (business "Priority" plans): reported tiers of 40 GB / 1 TB / 2 TB monthly priority data, with unlimited standard data thereafter; overage charges reported around $0.50–$1.00/GB depending on plan vintage **[SCRIBE — re-verify]**.
@@ -249,7 +256,10 @@ Per the Symmetrical Directive of the Four Wells — each well must actually say 
 
 - **Law:** the common-carriage posture (§9) is grounded in the Black's 2d-ed. definition of the common carrier, quoted verbatim above, and footnoted to [Law: 47 U.S.C. § 202(a)] as reference. The ICANN requirements (§10) are stated from ICANN's own published policy, unsoftened. Genuine.
 - **Religion (Scripture):** the epigraph — *"Their line is gone out through all the earth, and their words to the end of the world"* [Tanakh: Psalm 19:4, KJV] — is the psalmist describing a transmission that reaches everywhere; it is what a telecommunications carrier is built to do. Companion: *"We made you peoples and tribes, that you may know one another"* [Qur'an: al-Ḥujurāt 49:13, Pickthall] — the network as the instrument of mutual knowing. Genuine; neither is forced.
-- **Hip-hop:** *well held open this pass.* No correlation found that meets the bar — no forced lyric, no fabricated link. The red-pen desk holds this well for his ruling or a future pass.
+- **Hip-hop:** *well held open this pass — and held open honestly, which is
+  the genuine posture.* No correlation found that meets the bar — no forced
+  lyric, no fabricated link. **RULED genuine by his red pen, 2026-10-09:**
+  the well stands; the honesty of leaving it empty stands with it.
 - **Fiction & film:** *"The sky above the port was the color of television, tuned to a dead channel."* [William Gibson, *Neuromancer*, 1984] — the opening line of the novel that named cyberspace, describing the sky itself as a tuned medium. A carrier that rides a satellite constellation is, literally, in the business of the tuned sky. Genuine.
 - **Humanity:** the design serves the unserved first — the rural site, the curbside worker, the place the fiber map forgot. The last-mile table (§4) leads with satellite precisely because the profitable places already have carriers and the forgotten places do not. Connectivity is not charity here; it is the business model pointed at the people the incumbents priced out. Genuine.
 
