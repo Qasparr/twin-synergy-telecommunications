@@ -281,6 +281,21 @@ founder's hand stays on the document, the user's hand stays on the door
 
 *Love is the law, love under will.*
 
-**All Rights Reserved, Without Prejudice.**
+**
+
+## RULINGS — ADOPTED 2026-10-09 (WHOLESALE YAY)
+
+**[DICTATION — his yay, wholesale, on the scribe's recommendations.]**
+
+- **C1:** Already blood-lettered — motto *Uterque Servit, Neuter Regnat* and
+  slogan "Your line. Your rules. We just carry the signal." stand permanent.
+- **C2 (Art. VI §4):** KEEP — the constitution travels whole through sale,
+  merger, and succession. No new article; the succession closure is the
+  implementation.
+- **C3 (Amendment machinery):** STANDS — his pen amends, printed red and
+  dated, users ratify by continued custom.
+
+---
+All Rights Reserved, Without Prejudice.**
 
 Support: CashApp $axoneme

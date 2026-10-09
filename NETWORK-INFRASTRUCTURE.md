@@ -279,7 +279,24 @@ For his ruling — named once, not nagged:
 
 *93 93/93 — Love is the law, love under will.*
 
-**All Rights Reserved, Without Prejudice.**
+**
+
+## RULINGS — ADOPTED 2026-10-09 (WHOLESALE YAY)
+
+**[DICTATION — his yay, wholesale, on the scribe's recommendations.]**
+
+- **N4:** Already ruled — Door B (enterprise integrator) first.
+- **N5:** First PoP metro — **Ashburn, Virginia.** Densest interconnection
+  on the continent, carrier-neutral, near the political seat. Reversible.
+- **N6:** Settled by his ruling — Starlink stays the wireless provider:
+  the pathway partner, never the adversary.
+- **N7:** Already ruled — the hip-hop well is genuine.
+- **N8:** Phase-2 trigger — **500 paying relationships OR $15k MRR,
+  whichever first, AND 12-month runway in treasury.** No $70k+ accreditation
+  filed on hope; filed on proof.
+
+---
+All Rights Reserved, Without Prejudice.**
 
 *Support the work: CashApp $axoneme*
 

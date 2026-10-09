@@ -211,6 +211,24 @@ Live, Love, and let Love, Live.
 
 93 93/93
 
-**All Rights Reserved, Without Prejudice**
+**
+
+## RULINGS — ADOPTED 2026-10-09 (WHOLESALE YAY)
+
+**[DICTATION — his yay, wholesale, on the scribe's recommendations.]**
+
+- **S20:** `twin://` URI as specified — namespaced, extensible.
+- **S21:** **Hybrid Ed25519+ML-DSA-65**, per the standing PQPE ruling.
+- **S22:** **QR V10-M** — headroom; reprinting stickers is expensive.
+- **S23:** **QR printed over holographic film** — scannability over
+  prettiness; an unscannable sticker is jewelry.
+- **S24:** Revocation anchored on the **oz ledger + OpenTimestamps**
+  (consistent with T13).
+- **S25:** Confirmed — **bearer-generated keys;** the registrar never
+  touches them.
+- **S26:** **Round 25mm;** one-per-device as guidance, not enforced.
+
+---
+All Rights Reserved, Without Prejudice**
 Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure
 CashApp: $axoneme

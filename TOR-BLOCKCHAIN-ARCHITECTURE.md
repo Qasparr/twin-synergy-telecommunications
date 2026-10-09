@@ -378,5 +378,26 @@ Twin Synergy holds the **bare legal title** of the zone entry — the registrati
 
 *"What can occur — will." — Live, Love, and let Love, Live.*
 
-**All Rights Reserved, Without Prejudice.**
+**
+
+## RULINGS — ADOPTED 2026-10-09 (WHOLESALE YAY)
+
+**[DICTATION — his yay, wholesale, on the scribe's recommendations.]**
+
+- **T13:** **D+E — no chain of our own.** Hash-chained ledger + DNSSEC/DANE,
+  with OpenTimestamps anchoring for what needs public timestamp proof.
+- **T14:** **Shamir-split escrow, default and disclosed;** no-recovery as
+  opt-in for sovereigns. The customer is told exactly what the default means.
+- **T15:** **Onion canonical, with optional clearnet mirror**
+  (Onion-Location). Reach matters; the onion stays canonical.
+- **T16:** **ICANN-root compatibility.** Counsel required either way.
+- **T17:** **DID + payment token sufficient** for billing at Phase 1; more
+  identity only where law or fraud forces it.
+- **T18:** **Onion services only at Phase 1;** guard/middle relays later,
+  once there is a legal department.
+- **T19:** **Hybrid PQ for root/recovery keys now;** all identity keys at
+  Phase 2, per his hybrid-forever ruling.
+
+---
+All Rights Reserved, Without Prejudice.**
 CashApp $axoneme

@@ -578,6 +578,20 @@ goes, its design is dishonest and returns to the Lab. **[DESIGN]**
 
 **Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure**
 
+## RULINGS — ADOPTED 2026-10-09 (WHOLESALE YAY)
+
+**[DICTATION — his yay, wholesale, on the scribe's recommendations.]**
+
+- **V27:** The Sticker Protocol **approved as drawn** — fingerprints and
+  locators, never secrets.
+- **V28:** Phase order **stands** — shipped software NOW, hosted SaaS
+  LATER, game-engine work ASPIRATION.
+- **V29:** **$QQ toll as Sybil/admission for the free/grace tiers;
+  overruled for paying customers** — they've proven humanity with money.
+- **V30:** Confirmed — the email warrant doctrine **prints verbatim** in
+  the terms.
+
+---
 All Rights Reserved, Without Prejudice.
 
 CashApp: $axoneme

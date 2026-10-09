@@ -317,5 +317,21 @@ chain: penned, audited, TRVVST, warranted, TRVVTH again.
 
 **Johnathan 'Qasparr' (Κασπάρρ) Monroe, Keeper of the Secret Treasure**
 
-*All Rights Reserved, Without Prejudice*
+*
+
+## RULINGS — ADOPTED 2026-10-09 (WHOLESALE YAY)
+
+**[DICTATION — his yay, wholesale, on the scribe's recommendations.]**
+
+- **O9:** KEEP the ten office names and their Oz×Duty pairings.
+- **O10:** STANDS — the inter-department protocol is the coordination law
+  of the house: all coordination on the ledger, the duty of refusal,
+  disputes resolved against the charter.
+- **O11:** Product Works folds into The Hearth, with The Forge and The
+  Observatory in support. No eleventh office until the line earns it.
+- **O12:** At growth stage the red pen becomes **appellate, not absolute**
+  — the court of last resort, not the daily throne.
+
+---
+All Rights Reserved, Without Prejudice*
 CashApp $axoneme
