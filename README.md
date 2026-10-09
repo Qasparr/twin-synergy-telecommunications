@@ -28,6 +28,7 @@ and a tokenomics trinity of **work, proof, and grace**.
 | 7 | [Services Integration](SERVICES-INTEGRATION.md) — nine service lines, incl. power gaming | [PDF](pdf/SERVICES-INTEGRATION.pdf) |
 | 8 | [The Trinity of Tokenomics](TOKENOMICS.md) — the Miner, **$PP "proof positive"**, **$00** | [PDF](pdf/TOKENOMICS.pdf) |
 | 9 | [The Master Blueprint](TWIN-SYNERGY-BLUEPRINT.md) — the weaving of all eight | [PDF](pdf/TWIN-SYNERGY-BLUEPRINT.pdf) |
+| 10 | [The Second Weave](SECOND-WEAVE.md) — eight closures: CALEA, financials, go-to-market, legal entity, incident response, competitive, emission, succession | [PDF](pdf/SECOND-WEAVE.pdf) |
 
 ## The tokenomics trinity
 

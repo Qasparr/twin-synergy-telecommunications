@@ -69,6 +69,8 @@ DOCS = [
      "Twin Synergy Telecommunications"),
     ("SIMULATION-REPORT.md", "Simulation Report — Does the Tokenization Hold?",
      "Twin Synergy Telecommunications"),
+    ("SECOND-WEAVE.md", "The Second Weave — Eight Closures",
+     "Twin Synergy Telecommunications"),
 ]
 
 
