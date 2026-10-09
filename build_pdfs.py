@@ -67,6 +67,8 @@ DOCS = [
      "Twin Synergy Telecommunications"),
     ("TWIN-SYNERGY-BLUEPRINT.md", "The Master Blueprint",
      "Twin Synergy Telecommunications"),
+    ("SIMULATION-REPORT.md", "Simulation Report — Does the Tokenization Hold?",
+     "Twin Synergy Telecommunications"),
 ]
 
 
