@@ -54,6 +54,49 @@ milestone achievements. The attestation is chain-anchored; the token is the
 proof, made spendable. Smurfing and boosting meet the ladder's justice
 (analyzed and recorded, judged only on proof — his data doctrine).
 
+**Ladder integrity — the four amendments [DESIGN — adopted by his red pen
+2026-10-09; proven in simulation, 42/42 thresholds held]:**
+
+1. **Booster detection.** Two signals: repeated-opponent pairing analysis
+   (three same-soul meetings at ≥80% wins opens inquiry) and Elo-velocity
+   anomaly vs. match history (climbing faster than honest play explains).
+   The accomplice falls with the booster.
+2. **The smell test at every tier.** Win-rate vs. rank-tier mismatch is
+   examined at all tiers, not only the low ones — with provisional
+   placement matches for new souls and exemption for established veterans.
+3. **Flags hold; they never deny.** A flagged attestation is *held for
+   review*, not blocked. Cleared souls mint (delayed, not denied); only
+   confirmed fraud — or the review's rare error — ends in denial. The
+   prodigy and the smurf trip the same wire; review tells them apart.
+4. **Fraud is excess.** A smurf's rank understates their skill — their $PP
+   is skill-backed and legitimate. Fraud is $PP minted *beyond true skill*;
+   that excess is what the gate hunts.
+
+**Mining doctrine [DESIGN — adopted by his red pen 2026-10-09]:** monitored
+acceptance. Proof-of-work centralizes — the physics is not denied.
+Concentration is published under the honest-metrics doctrine, pool
+incentives lean against it, and centralization past remedy fires a public
+alert. Silence is not a position.
+
+## III. $00 — the no-proof niche [DICTATION]
+
+Should such a niche exist — and the author says it should. $00 asks nothing:
+no hashes, no ladder, no proof. It is the tier for the ones the other tiers
+cannot reach — the newcomer with no rig and no rank, the player before their
+first season, the human being as such.
+
+**Issuance [DESIGN]:** presence-based, capped per soul (one identity, one
+stream — the DID anchor from TOR-BLOCKCHAIN-ARCHITECTURE.md is the
+sybil backstop), throttled so grace cannot be farmed into inflation. What
+$00 buys is entry: the stake that lets a nobody become a somebody on the
+ladder, where $PP can then be *earned*.
+
+**The measured anchor [DESIGN — adopted by his red pen 2026-10-09]:** the
+DID anchor's sybil recall is *measured on testnet, never assumed*. Until it
+demonstrates its recall, $00 streams against the conservative cap —
+fail-closed. An unmeasured anchor gets a tight throttle, not the benefit
+of the doubt.
+
 ## III. $00 — the no-proof niche [DICTATION]
 
 Should such a niche exist — and the author says it should. $00 asks nothing:

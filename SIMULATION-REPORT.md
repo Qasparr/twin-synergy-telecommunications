@@ -99,6 +99,38 @@ not assumed]**; the ledger never broke.
    DID anchor be held to?
 4. Rule the mining doctrine: pools, democratization, or monitored acceptance?
 
+---
+
+## ROUND 2 — the amended design, re-run (2026-10-09, after his yay)
+
+**HYPOTHESIS:** the four amendments, cut into the sim's mechanisms, turn
+every BREAK to HOLD.
+**METHOD:** amended `sim/tokenomics_sim.py` — all-tier smell test with
+placement/veteran bounds, booster pairing + velocity signals, hold-for-review
+pending attestations, excess-based legitimacy (fraud = $PP beyond true
+skill), mining watch (alert = remedy), conservative $00 throttle until the
+DID anchor is measured; 7 scenarios × 3 seeds. Two honest dead ends on the
+way: (a) the first booster model never let boosters boost — arranged bouts
+added; (b) the residual excess was 2 clean mints by one late-flagged
+booster — pair threshold 5→3.
+**OBSERVATION:**
+
+| Scenario | $PP legit ≥.95 | fraud blocked ≥.80 | honest blocked ≤.10 | $00 over ≤1.10 | sybil ≥.70 | watch |
+|---|---|---|---|---|---|---|
+| baseline | 1.000 HOLD | 1.000 HOLD | 0.027 HOLD | 1.000 HOLD | 1.000 HOLD | HOLD |
+| smurf_invasion | 1.000 HOLD | 1.000 HOLD | 0.027 HOLD | 1.000 HOLD | 1.000 HOLD | HOLD |
+| booster_ring | 1.000 HOLD | 1.000 HOLD | 0.026 HOLD | 1.000 HOLD | 1.000 HOLD | HOLD |
+| zero_farm | 1.000 HOLD | 1.000 HOLD | 0.027 HOLD | 1.003 HOLD | 1.000 HOLD | HOLD |
+| zero_farm_weak_anchor | 1.000 HOLD | 1.000 HOLD | 0.021 HOLD | 1.008 HOLD | 1.000 HOLD | HOLD |
+| whale_miner | 1.000 HOLD | 1.000 HOLD | 0.027 HOLD | 1.000 HOLD | 1.000 HOLD | HOLD |
+| combined | 1.000 HOLD | 1.000 HOLD | 0.023 HOLD | 1.003 HOLD | 1.000 HOLD | HOLD |
+
+Ledger integrity verified every run; integrity recall (fraudsters revoked)
+1.0 in all scenarios.
+**RESULT: 42/42 HOLD.** The amended design holds. The four amendments are
+cut into TOKENOMICS.md (§II) and SERVICES-INTEGRATION.md (§1-A) as
+[DESIGN — adopted by his red pen 2026-10-09].
+
 *Live, Love, and let Love, Live.*
 
 **93 93/93**

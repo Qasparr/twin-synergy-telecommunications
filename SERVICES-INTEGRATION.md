@@ -127,12 +127,17 @@ instead of electricity. A Grandmaster rank on a main is a proof no bot farm
 can fake cheaply: the ladder is the furnace. Rank attestations feed the
 $PP issuance (see TOKENOMICS.md) — play well, prove it, be weighed.
 
-**Integrity.** Smurfing, boosting, and win-trading are met the Twin Synergy
-way: patterns are *analyzed and recorded, not auto-judged* — flags go to
-human review with the ledger attached, and only proven fraud forfeits rank
-**[DESIGN — his data doctrine, applied to the ladder]**. The ladder's
-justice is transparent: the rules are published, the evidence is shown, the
-appeal is real.
+**Integrity [DESIGN — his data doctrine, applied to the ladder; four
+amendments adopted by his red pen 2026-10-09, proven in simulation].**
+Smurfing, boosting, and win-trading are met the Twin Synergy way: patterns
+are *analyzed and recorded, not auto-judged*. (1) **Booster detection:**
+repeated-opponent pairing analysis plus Elo-velocity anomaly; the accomplice
+falls with the booster. (2) **The smell test at every tier,** with
+provisional placement matches for new souls. (3) **Flags hold for review —
+never deny:** a flagged attestation is delayed pending review, not refused;
+only proven fraud forfeits rank. (4) **Fraud is excess:** $PP beyond true
+skill is what the gate hunts. The ladder's justice is transparent: the
+rules are published, the evidence is shown, the appeal is real.
 
 **Tor touch:** onion mirrors for ladder APIs in censored regions.
 **Blockchain touch:** rank and trophy attestations on-chain (testnet first).
