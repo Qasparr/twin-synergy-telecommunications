@@ -2054,6 +2054,79 @@ for his rulings.
 
 ---
 
+## RULINGS — WHOLESALE YAY, 2026-10-09
+
+**[DICTATION — his yay, wholesale, on the scribe's recommendations.]**
+Forty-four questions ruled in one stroke. What is adopted below is
+[DESIGN — adopted]; what is sent to counsel is marked; what is held open
+names its holder.
+
+### PART ONE — CALEA (9)
+Adopted: the section's posture stands. All nine questions go to counsel
+as the brief. Design proceeds conservatively — no reliance on the
+information-service shelter for the access line; zero-retention regardless
+of the retention ruling. The ledger-under-gag caveat stays open until
+counsel confirms.
+
+### PART TWO — FINANCIAL (6)
+- **F1:** Adopted — bootstrap + pre-sales; hold Phase 0 until first
+  revenue; outside capital only at Phase 2, through the for-profit sub.
+- **F2:** Adopted — founder + agents + remote-hands lean through Phase 1;
+  first hires only with six months' salary in treasury.
+- **F3:** Settled by his Door B ruling — integrator MRR posture.
+- **F4:** Adopted — sketched prices stand as opening prices; his pen
+  adjusts after 90 days of market contact.
+- **F5:** Adopted — the $70k accreditation trigger is 500 paying
+  relationships or $15k MRR, plus 12-month runway.
+- **F6:** Confirmed — token revenue stays $0 until counsel maps the lane.
+
+### PART THREE — GO-TO-MARKET (5)
+1. Adopted — Gatehouse-first stands. 2. Adopted — the $5/mo anchor kept;
+   his pen adjusts after the first 100 customers. 3. Adopted — CashApp
+   $axoneme carries first revenue; second rail before 500 customers.
+4. Held open — he names the room. 5. Adopted — wave 1 capped at 100 paid
+   Gatehouse accounts; wave 2 opens at <24h median ticket response for 30
+   days.
+
+### PART FOUR — LEGAL ENTITY (4 remaining; RQ-3/RQ-4 already answered)
+- **RQ-1:** Held open — which master he fears most is his call alone.
+- **RQ-2:** Adopted — outside capital yes, eventually, through the
+  for-profit sub only.
+- **RQ-5:** Adopted — the Foundation owns the mark, docs, and code on day
+  one; his pen (the amendment machinery) is the control.
+- **RQ-6:** Adopted — Delaware for the operating corp, home state for the
+  Foundation; counsel confirms.
+
+### PART FIVE — INCIDENT RESPONSE (4)
+1. Adopted — timelines stand (SEV-1 24h, SEV-2 72h, SEV-3 30-day log).
+2. Adopted — the Ward declares AND leads; the Vigil watches and verifies.
+   No discrepancy remains.
+3. Adopted — lawful-process collision under gag is SEV-1; response
+   templates held for retained counsel.
+4. Adopted — failed drills are published.
+
+### PART SIX — COMPETITIVE (3 remaining; 1 & 4 already ruled)
+2. Adopted — "stated both or neither" approved before any public use.
+3. Adopted — the VPN class stays complementary; revisit at Phase 2.
+5. Adopted — ledger first; tokenomics rides it.
+
+### PART SEVEN — EMISSION (6)
+1. Adopted — 90-day seasons stand. 2. Adopted — tier shares stand.
+3. Adopted — $PP no-expiry stands; review at year 3. 4. Adopted — 50/block,
+   4-year halvings, tail of 1. 5. Adopted — cross-tier conversion stays
+   closed. 6. Adopted — circuit-breaker thresholds stand.
+
+### PART EIGHT — SUCCESSION (7)
+1. Adopted — 3-of-5 stands. 2. Adopted — the five roles keep their names.
+3. Adopted — paper AND HSMs. 4. Adopted — yearly drills stand.
+5. Adopted — 30/60-day triggers stand; counsel refines. 6. Adopted — fund
+   the continuity/wind-down reserve before first customer. 7. Adopted —
+   the Successor-designate waits until Phase 1.
+
+---
+
+*The pen has ruled. The weave holds.*
+
 *Live, Love, and let Love, Live.*
 
 **93 93/93**
