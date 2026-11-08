@@ -121,6 +121,19 @@ his money goal, 2026-10-01]**: **QIRA** (the heirloomable nonprofit token),
 children's children). $PP is proof; $00 is grace; QIRA is the house they
 live in. The author rules the relations between them.
 
+**Addendum — the family's fourth member, seated 2026-11-08 [SCRIBE]:**
+the standing family is four, not three: **$$QASH** — the Utility &
+Execution token, *the fuel of the runtime* (Liber VII; canonical double
+sigil per ruling R-65, distinguishing it from the unrelated QUOINE QASH) —
+belongs in this enumeration; its full specification lives in the QIRA
+tokenomics whitepaper (v0.6, §4.2). A weighing recorded the same day
+[derived]: **QASH = 45 by English ordinal, equal to QIRA's 45**; Agrippa
+separates them (QASH 169, QIRA 160) — the tie is at word level, ordinal
+only, and the $ sigil carries no weight in either bank. And the house rule
+over the whole family, in the author's words (2026-11-08): *"Anything that
+tries to weaken the sovereign is against our policy. The user is sovereign
+master of their own will. And their own property and data."*
+
 ## V. The compliance lane [DICTATION — his standing doctrine]
 
 Testnet play money first. Nothing touches real value until the compliance

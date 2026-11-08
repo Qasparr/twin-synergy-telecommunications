@@ -44,6 +44,17 @@ $QQ toll is the Sybil/admission rule **[DICTATION — his to overrule]**.
 Billing receipts are published as hashes; content is never in the receipt.
 Fail-closed: a ledger that cannot write does not serve. **[DICTATION]**
 
+**The fee unit [DESIGN — desk addition, 2026-11-08, for the red pen]:**
+where a service line charges an execution or service fee, the fee is
+denominated and settled in **$$QASH** — the house's Utility & Execution
+token, *the fuel of the runtime* (Liber VII; canonical double sigil per
+R-65; specification in the QIRA tokenomics whitepaper, v0.6 §4.2, where
+protocol fees settle in $$QASH and the Harvest levies its floor in $$QASH
+base units). The offices do not collide: the $QQ toll above remains the
+Sybil/admission rule; $$QASH is the settlement unit of fees for work
+executed. Fiat price sketches elsewhere in this map are unaffected — this
+addition names the token of account for fees, not their amounts.
+
 **THE REGISTRY.** The DNS registrar is the other half of the founding premise
 **[DICTATION]**. Authoritative DNS is DNSSEC-signed; zone changes are
 hash-chained like the Ledger. Registrar ownership claims are anchored as

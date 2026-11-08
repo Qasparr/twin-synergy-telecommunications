@@ -511,6 +511,7 @@ For his ruling — named once, not nagged [SCRIBE]:
 - **F4. Pricing authority.** Do the §3 unit-economic sketches survive as opening prices, or does his pen set every price before the first invoice?
 - **F5. The Phase-2 money trigger.** Ties to N8: what measured threshold authorizes the $70k working-capital gate and the accreditation filing?
 - **F6. Token revenue.** $PP/$00/$QQ/QIRA are $0 in this model per testnet-first [DICTATION]. Confirm the exclusion stands until counsel maps the compliance lane.
+- **F6-addendum [SCRIBE — desk flag, 2026-11-08, not a ruling]:** **$$QASH** — the QIRA family's Utility & Execution token (Liber VII; R-65) — is named in neither the F6 exclusion above nor §3's *Excluded by doctrine* list. Whether the $0 token-revenue exclusion extends to $$QASH execution fees (the settlement unit named in SERVICES-INTEGRATION.md §0, THE LEDGER) is a live question for the same ruling — flagged here, not decided.
 
 ---
 
@@ -802,6 +803,8 @@ to protect. The form is not a tax question; it is the first act of
 constitution-following [SCRIBE].
 
 Second thread: **QIRA as a nonprofit token**, $QQ and $BB as tribute to the Supernal Mother, nonprofit formation already live in his thinking [DICTATION]. The TST roadmap must not contradict it: if the two houses ever share a roof, the beams are laid for both from the first filing [SCRIBE].
+
+*Family completeness note [SCRIBE — desk addition, 2026-11-08]: the QIRA programme's family is four tokens (Liber VII) — QIRA, **$$QASH** (Utility & Execution, *the fuel of the runtime*; canonical double sigil per R-65), $QQ, $BB. $$QASH is recorded here so this weave's silence does not read as its absence. Weighed 2026-11-08 [derived]: QASH = 45 by English ordinal = QIRA's 45; Agrippa separates them (169 vs 160) — ordinal agreement only, the $ sigil weightless. The author's sovereignty axiom (2026-11-08) stands over the family and this roadmap alike: "Anything that tries to weaken the sovereign is against our policy. The user is sovereign master of their own will. And their own property and data."*
 
 ## METHOD
 
