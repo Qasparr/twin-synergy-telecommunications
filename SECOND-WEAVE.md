@@ -512,6 +512,7 @@ For his ruling — named once, not nagged [SCRIBE]:
 - **F5. The Phase-2 money trigger.** Ties to N8: what measured threshold authorizes the $70k working-capital gate and the accreditation filing?
 - **F6. Token revenue.** $PP/$00/$QQ/QIRA are $0 in this model per testnet-first [DICTATION]. Confirm the exclusion stands until counsel maps the compliance lane.
 - **F6-addendum [SCRIBE — desk flag, 2026-11-08, not a ruling]:** **$$QASH** — the QIRA family's Utility & Execution token (Liber VII; R-65) — is named in neither the F6 exclusion above nor §3's *Excluded by doctrine* list. Whether the $0 token-revenue exclusion extends to $$QASH execution fees (the settlement unit named in SERVICES-INTEGRATION.md §0, THE LEDGER) is a live question for the same ruling — flagged here, not decided.
+- **F6-addendum RULED [The Architect, 2026-11-08]:** the exclusion **covers $$QASH**. The house takes $0 revenue from every token in the family, the fee unit included: $$QASH fees are never house profit — they route as the whitepaper specifies (11% burn, remainder to the Harvest split), and service income is earned as *prices* charged openly in ordinary money, never as token revenue. Asked which of the two readings he wanted, the Architect chose coverage in his own words: "a is what I wanted. Now go ahead and 'cover it'." The desk flag above stands as the question's record; this line is its answer.
 
 ---
 
